@@ -1,0 +1,1 @@
+sinfo -Nlp brunellab-gpu
